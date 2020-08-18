@@ -11,7 +11,7 @@ $ cd "location where you placed downloaded conio.h"
 $ sudo mv conio.h /usr/include
 
 
-You can also edit file and implement other functions from conio.h, but I don't need them, so I won't bother with writing them.
+You can also edit file and implement other functions from original conio.h, but I don't need them, so I won't bother with writing them.
 I only need "getch" and "getche" for my school.
 
 
